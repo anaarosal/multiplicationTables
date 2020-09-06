@@ -1,2 +1,3 @@
 # multiplicationTables
 # multiplicationTables
+# multiplication-tables
