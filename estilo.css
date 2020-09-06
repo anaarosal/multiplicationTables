@@ -1,0 +1,29 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+h1{
+    font-size: 1em;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    text-shadow: 2px 2px rgba(169, 169, 169, 0.735);
+}
+#tabla{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+span{
+    width:20%;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    box-shadow: 10px 5px 15px black;
+    margin: 5px 0;
+}
+p{
+    text-align: center;
+
+}
